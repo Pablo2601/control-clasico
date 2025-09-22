@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cachés y archivos compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Otros (ajusta si usas Node)
+node_modules/
